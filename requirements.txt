@@ -1,0 +1,14 @@
+langchain~=0.3.2
+langchain-community~=0.3.1
+pandas~=2.2.2
+datasets~=3.0.1
+chromadb~=0.5.11
+rank_bm25
+langchain-core~=0.3.9
+langchain_openai
+dotenv
+sentence_transformers
+sentence-transformers~=3.1.1
+plotly
+numpy~=1.26.4
+rerankers~=0.5.3
